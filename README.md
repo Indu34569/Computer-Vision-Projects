@@ -138,3 +138,42 @@ This repository is intended for educational and learning purposes.
 
 ![Face Detection](02_Face_Detection/images/haar_cascade_face_detection.jpg)
 
+
+## 🛠️ Skills & Technologies
+
+### Programming Language
+- Python
+
+### Libraries & Frameworks
+- OpenCV
+- NumPy
+- Matplotlib
+- Ultralytics YOLO
+
+### Computer Vision Concepts
+- Image Processing
+- Image Resizing and Transformation
+- Grayscale Conversion
+- Drawing Shapes and Text on Images
+- Haar Cascade Face Detection
+- Real-Time Webcam Processing
+- YOLO Object Detection
+- Object Segmentation and Pose Estimation Experiments
+
+### Tools
+- Jupyter Notebook
+- Git
+- GitHub
+
+## 🎯 Learning Outcomes
+
+- Practiced fundamental image processing operations using OpenCV.
+- Implemented face detection using Haar Cascade classifiers.
+- Experimented with real-time object detection using YOLO.
+- Worked with images, webcam input, and computer vision workflows.
+
+## 🚀 Future Improvements
+
+- Explore custom-trained object detection models.
+- Improve real-time detection performance.
+- Build an interactive computer vision application.
