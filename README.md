@@ -114,3 +114,27 @@ Computer Science and Engineering
 ## License
 
 This repository is intended for educational and learning purposes.
+
+
+## 📸 Project Results
+
+### 1. Image Processing
+
+**Drawing Shapes and Text using OpenCV**
+
+![Drawing Shapes](01_Image_Processing/images/drawing_shapes_output.jpg)
+
+**Image Resizing and Scaling**
+
+![Image Resizing](01_Image_Processing/images/image_resize_comparison.jpg)
+
+**Grayscale Image Conversion**
+
+![Grayscale Conversion](01_Image_Processing/images/grayscale_conversion_output.jpg)
+
+### 2. Face Detection
+
+**Real-Time Face Detection using OpenCV Haar Cascade**
+
+![Face Detection](02_Face_Detection/images/haar_cascade_face_detection.jpg)
+
