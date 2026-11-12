@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Virtual environments
+.venv/
+venv/
+
+# YOLO model weights
+*.pt
+
+# Video files
+*.mp4
+*.avi
+*.mov
+
+# Secrets
+.env
